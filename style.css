@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(203, 201, 201);
+}
+main {
+    max-width: 800px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+ p, li {
+    font-size: 20px;
+ }
+a {
+    color: rgb(162, 109, 10);
+}
+
+.photo {
+    width: 400px;
+    float: right;
+    margin-left: 20px;
+}
+.card {
+    display: inline-block;
+    width: 360px;
+    height: 300px;
+    background-color: rgb(73, 159, 73);
+    border-color: #000;
+    border-width: 1px; 
+    border-style: dotted;
+    padding-right: 20px;
+    text-align: left;     
+    vertical-align: top;
+}
+
+.cons {
+    background-color: rgb(202, 94, 94);
+}
+
+.pro_cons {
+    text-align: center;
+}
+
